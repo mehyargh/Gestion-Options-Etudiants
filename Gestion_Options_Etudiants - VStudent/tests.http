@@ -1,0 +1,16 @@
+### POST : créer une option
+POST http://localhost:8081/Gestion_Options_Etudiants/rest/options
+Content-Type: application/json
+
+{
+  "codeOption": 6,
+  "libelle": "Biologie",
+  "domaine": "Biologie",
+  "responsable": "Mme Responsable Biologie",
+  "credits": 20,
+  "semestre": 2,
+  "capacite": 20
+}
+
+### GET : lister les options
+GET http://localhost:8081/Gestion_Options_Etudiants/rest/options

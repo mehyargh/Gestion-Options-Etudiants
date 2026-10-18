@@ -1,0 +1,30 @@
+GET http://localhost:8081/Gestion_Options_Etudiants/rest/options
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-10-18T202005.200.json
+
+###
+
+POST http://localhost:8081/Gestion_Options_Etudiants/rest/options
+Content-Type: application/json
+Content-Length: 168
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "codeOption": 6,
+  "libelle": "Biologie",
+  "domaine": "Biologie",
+  "responsable": "Mme Responsable Biologie",
+  "credits": 20,
+  "semestre": 2,
+  "capacite": 20
+}
+
+<> 2026-10-18T201949.200.json
+
+###
+

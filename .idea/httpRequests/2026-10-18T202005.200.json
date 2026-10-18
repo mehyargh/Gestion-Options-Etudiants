@@ -1,0 +1,56 @@
+[
+  {
+    "codeOption": 1,
+    "libelle": "Informatique",
+    "domaine": "Informatique",
+    "responsable": "M. Responsable Informatique",
+    "credits": 30,
+    "semestre": 1,
+    "capacite": 30
+  },
+  {
+    "codeOption": 2,
+    "libelle": "Mathématiques",
+    "domaine": "Mathématiques",
+    "responsable": "Mme Responsable Mathématiques",
+    "credits": 25,
+    "semestre": 1,
+    "capacite": 25
+  },
+  {
+    "codeOption": 3,
+    "libelle": "Physique",
+    "domaine": "Physique",
+    "responsable": "M. Responsable Physique",
+    "credits": 20,
+    "semestre": 2,
+    "capacite": 20
+  },
+  {
+    "codeOption": 4,
+    "libelle": "Infographie",
+    "domaine": "Infographie",
+    "responsable": "Mme Responsable Infographie",
+    "credits": 15,
+    "semestre": 1,
+    "capacite": 15
+  },
+  {
+    "codeOption": 5,
+    "libelle": "Chimie",
+    "domaine": "Chimie",
+    "responsable": "M. Responsable Chimie",
+    "credits": 20,
+    "semestre": 2,
+    "capacite": 20
+  },
+  {
+    "codeOption": 6,
+    "libelle": "Biologie",
+    "domaine": "Biologie",
+    "responsable": "Mme Responsable Biologie",
+    "credits": 20,
+    "semestre": 2,
+    "capacite": 20
+  }
+]
